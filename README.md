@@ -5,8 +5,6 @@
 **Core Java concepts, OOP and programming fundamentals, learned by writing code.**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Status](https://img.shields.io/badge/status-learning%20in%20progress-brightgreen?style=for-the-badge)
 
 </div>
@@ -28,7 +26,6 @@ JAVA/
 ├── LearnSwithch.java     # switch statement
 ├── loops.java            # for loops
 ├── whileloop.java        # while loops
-├── oops.cpp              # OOP in C++
 ```
 
 ## 📚 Topics Covered
@@ -41,7 +38,6 @@ JAVA/
 | Constructors | `LearnConstructor.java` |
 | Classes and objects, encapsulation | `Oops/`, `Oops4/` |
 | Inheritance | `Inheritance/` |
-| OOP in C++ (comparison) | `oops.cpp` |
 
 > These are based on file and folder names. Adjust the table to match what each file really contains.
 
@@ -68,13 +64,6 @@ java loops
 ```
 
 > The class name must match what is inside the file. If a file has a `public class` with a different name, run that class name instead.
-
-### Run the C++ and Python files
-
-```bash
-g++ oops.cpp -o oops && ./oops
-python ml.py
-```
 
 ## 🎯 Learning Goals
 
